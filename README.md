@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Andrew Ng's Machine Learning**
 
-- ⚡ Fun fact **I love cinemas, public transport and urban agriculture**
+- ⚡ Fun fact **I love cinemas, public transport and urban agriculture and look forward to working on projects related to these areas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
