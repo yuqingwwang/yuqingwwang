@@ -3,7 +3,9 @@
 
 - 🔭 I recently worked on [Objectively Funny](https://github.com/rmelbardis/ObjectivelyFunny)
 
-  - 🌱 I’m currently being a TA for **Le Wagon Data Science bootcamp #960 and #991**
+- 🌱 I’m currently being a TA for **Le Wagon Data Science bootcamp #960 and #991**
+
+- 🎓 I speak Chinese(Mandarin) and English professionaly, and speak ein bisschen Deutsch &un peu Français.
 
 - ⚡ Fun fact **I love cinemas, public transport and urban agriculture, and I look forward to working on projects in these areas**
 
