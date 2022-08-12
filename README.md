@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Yuqing</h1>
 <h3 align="center">A passionate Data Analyst originally from Beijing, now based in London</h3>
 
-- 🔭 I’m currently working on [Objectively Funny](https://github.com/rmelbardis/ObjectivelyFunny)
+- 🔭 I recently worked on [Objectively Funny](https://github.com/rmelbardis/ObjectivelyFunny)
 
-- 🌱 I’m currently learning **Andrew Ng's Machine Learning**
+  - 🌱 I’m currently being a TA for **Le Wagon Data Science bootcamp #960 and #991**
 
-- ⚡ Fun fact **I love cinemas, public transport and urban agriculture, so I look forward to working on projects related to these areas**
+- ⚡ Fun fact **I love cinemas, public transport and urban agriculture, and I look forward to working on projects in these areas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
