@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Yuqing</h1>
 <h3 align="center">A passionate Data Analyst originally from Beijing, now based in London</h3>
 
-- 🔭 I recently worked on [Objectively Funny](https://github.com/rmelbardis/ObjectivelyFunny)
+- 💻 Learning Tableau now
 
-- 🌱 I’m currently being a TA for **[Le Wagon](https://www.lewagon.com/) Data Science bootcamp #960 London and #991 Remote**
+- 🌱 I’m currently teaching at **[Le Wagon](https://www.lewagon.com/) Data Science bootcamp **
 
 - 🎓 I speak Chinese (Mandarin) and English professionaly.
 
