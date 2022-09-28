@@ -3,7 +3,7 @@
 
 - 💻 Learning Tableau now
 
-- 🌱 I’m currently teaching at **[Le Wagon](https://www.lewagon.com/) Data Science bootcamp **
+- 🌱 I’m currently teaching at [Le Wagon](https://www.lewagon.com/) Data Science bootcamp 
 
 - 🎓 I speak Chinese (Mandarin) and English professionaly.
 
