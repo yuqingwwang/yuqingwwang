@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Yuqing</h1>
+<h1 align="center">Hey, I'm Yuqing</h1>
 <h3 align="center">A passionate Data Analyst originally from Beijing, now based in London</h3>
 
 - 💻 Learning Tableau now
@@ -7,7 +7,6 @@
 
 - 🎓 I speak Chinese (Mandarin) and English professionaly.
 
-- ⚡ Fun fact **I love cinemas, public transport and urban green space, and I look forward to working on projects in these areas**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
