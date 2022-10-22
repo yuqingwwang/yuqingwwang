@@ -1,5 +1,5 @@
 # 💫 About Me:
-💻 Learning Tableau now<br><br>🌱 I’m currently teaching at Le Wagon Data Science Bootcamp<br><br>🎓 I speak Chinese (Mandarin) and English professionally.
+👩‍💻 Learning Tableau and Responsive Web Design now<br><br>🌱 Spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br>💬 I speak Chinese and English.
 
 
 ## 🌐 Socials:
