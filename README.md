@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 Learning Tableau, JavaScript and Responsive Web Design now<br><br>🌱 Spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br>💬 I speak Chinese and English.
+👩‍💻 London-based. Learning Tableau, JavaScript and Responsive Web Design now<br><br>🌱 Spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br>💬 I speak Chinese and English.
 
 
 ## 🌐 Socials:
