@@ -1,5 +1,5 @@
 # 💫 About Me:
-👩‍💻 London-based. Learning Tableau, JavaScript and Responsive Web Design now<br><br>🌱 I’m currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I’m working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
+👩‍💻 London-based. Learning Tableau, JavaScript and Responsive Web Design now<br><br>🌱 Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I’m working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
 
 
 <h3 align="left">Connect with me:</h3>
