@@ -1,6 +1,5 @@
 # 💫 About Me:
-👩‍💻 London-based Python developer. <br>
-Learning Tableau, and Web Development fundamentals (HTML/CSS/JavaScript) <br><br>⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis) next year
+👩‍💻 London-based Python developer. Learning Tableau, and Web Development fundamentals (HTML/CSS/JavaScript). <br><br>⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis) next year
 
 
 <h3 align="left">Connect with me:</h3>
