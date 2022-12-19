@@ -2,7 +2,7 @@
 👩‍💻 London-based Python developer. Learning Tableau, and Web Development fundamentals (HTML/CSS/JavaScript). <br><br>⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis) next year
 
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuqingwang42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuqingwang42" height="30" width="40" /></a>
 </p>
