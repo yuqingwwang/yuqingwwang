@@ -1,10 +1,14 @@
 # 💫 About Me:
-👩‍💻 London-based Python developer. Learning Web Development fundamentals (HTML/CSS/JavaScript). <br><br>⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis) next year
+👩‍💻 London-based Python developer. Learning Web Development fundamentals (HTML/CSS/JavaScript) <br><br>⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 👯 I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis) next year
 
 
 <h3 align="left">Connect with me on Linkedin:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/yuqingwang42" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yuqingwang42" height="30" width="40" /></a>
+</p>
+<h3 align="left">Or find me on other sites:</h3>
+<p align="left">
+<a href="https://www.sololearn.com/profile/18902250" target="blank">sololearn</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
