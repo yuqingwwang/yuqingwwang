@@ -1,7 +1,8 @@
 # 💫 About Me:
-👩‍💻 London-based Python developer. Learning Web Development fundamentals (HTML/CSS/JavaScript) <br><br>
+👩‍💻 London-based Python developer. <br><br>
+🐳 Learning Web Development fundamentals (HTML/CSS/JavaScript) <br><br>
+Check out the [landing page](https://github.com/yuqingwang98/landing-page) I built recently <br><br>
 ⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 
-🐳 I recently built a [landing page](https://github.com/yuqingwang98/landing-page) <br><br>
 👯 Next year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
 
 
