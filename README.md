@@ -1,6 +1,6 @@
 # 💫 About Me:
 👩‍💻 London-based Python developer. 
-Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 💜 <br><br> 
+Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
 
 🐳 Learning Web Development fundamentals (HTML/CSS/JavaScript) <br><br>
 > Check out the [landing page](https://github.com/yuqingwang98/landing-page) I recently built <br><br>
