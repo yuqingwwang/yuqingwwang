@@ -3,7 +3,8 @@
 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
 
 🐳 Learning Web Development fundamentals (HTML/CSS/JavaScript) <br><br>
-> Check out the [landing page](https://github.com/yuqingwang98/landing-page) I recently built <br><br>
+> I recently built: <br><br>
+>  [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Simple Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors)
 
 ⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 
 👯 Next year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
