@@ -4,7 +4,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 
 🐳 Learning Web Development fundamentals (HTML/CSS/JavaScript) <br><br>
 > I recently built: <br><br>
->  [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Simple Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors)
+>  [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Simple Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch)
 
 ⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 
 👯 Next year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
@@ -31,7 +31,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
     </div>
   </td>
 
-  <td valign="center">
+  <td valign="top" width="33%">
     <div align="center">  
       <h4>Web Development</h4>
       <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
