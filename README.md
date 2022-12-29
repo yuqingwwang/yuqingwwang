@@ -71,6 +71,14 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 
 ---
 <!--START_SECTION:waka-->
+
+```text
+JavaScript   1 hr 27 mins    ███████████░░░░░░░░░░░░░░   44.35 %
+CSS          57 mins         ███████▒░░░░░░░░░░░░░░░░░   29.16 %
+HTML         43 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.24 %
+Markdown     8 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   04.24 %
+```
+
 <!--END_SECTION:waka-->
 
 [![](https://visitcount.itsvg.in/api?id=yuqingwang98&icon=0&color=0)](https://visitcount.itsvg.in)
