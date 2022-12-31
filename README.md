@@ -61,16 +61,13 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 December 2022 - To: 29 December 2022
+From: 26 December 2022 - To: 30 December 2022
 
-Total Time: 8 hrs 28 mins
+Total Time: 15 hrs 19 mins
 
-JavaScript   3 hrs 26 mins   ██████████░░░░░░░░░░░░░░░   40.65 %
-CSS          2 hrs 8 mins    ██████▒░░░░░░░░░░░░░░░░░░   25.30 %
-HTML         57 mins         ██▓░░░░░░░░░░░░░░░░░░░░░░   11.33 %
-Python       36 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   07.25 %
-Makefile     27 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.38 %
-Markdown     22 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.38 %
+JavaScript   7 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.95 %
+CSS          2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
+Other        2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
 ```
 
 <!--END_SECTION:waka-->
