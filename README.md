@@ -63,7 +63,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 ```text
 From: 26 December 2022 - To: 30 December 2022
 
-Total Time: 15 hrs 19 mins
+Total Time: 13 hrs 13 mins
 
 JavaScript   7 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.95 %
 Other        2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
