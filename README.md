@@ -7,7 +7,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 >  [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
 
 ⛄️ Currently spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 
-👯 Next year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
+👯 This year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
 
 <br>
 
