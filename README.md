@@ -66,8 +66,7 @@ From: 26 December 2022 - To: 30 December 2022
 Total Time: 15 hrs 19 mins
 
 JavaScript   7 hrs 2 mins    ███████████▒░░░░░░░░░░░░░   45.95 %
-CSS          2 hrs 9 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.14 %
-Other        2 hrs 7 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.86 %
+Other        2 hrs 5 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.64 %
 ```
 
 <!--END_SECTION:waka-->
