@@ -4,11 +4,11 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 
 🐳 Learning Web Development (HTML/CSS/JavaScript) 
 - I recently completed the Foundations Track of The Odin Project: 
-  - Projects I've made include: [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
-- Currently I am following University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) Course
+  - Projects I've made as a part of this course include: [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
+- Currently I am following the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) Course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
-⛄️ Spending most days teaching at Le Wagon Data Science Bootcamp (London and Remote) <br><br> 
+⛄️ Teaching Data Science at Le Wagon Bootcamps (London and Remote) <br><br> 
 👯 This year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
 
 <br>
