@@ -65,6 +65,8 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 <!--START_SECTION:waka-->
 
 ```text
+From: 01 January 2023 - To: 07 January 2023
+
 Total Time: 15 hrs 39 mins
 
 JavaScript         13 hrs 44 mins  ██████████████▓░░░░░░░░░░   58.69 %
