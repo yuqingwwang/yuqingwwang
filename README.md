@@ -65,10 +65,10 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 <!--START_SECTION:waka-->
 
 ```text
-From: 04 January 2023 - To: 10 January 2023
+From: 05 January 2023 - To: 11 January 2023
 
-JavaScript         12 hrs 24 mins  ████████████░░░░░░░░░░░░░   47.91 %
-Other              11 hrs          ██████████▓░░░░░░░░░░░░░░   42.48 %
+JavaScript         10 hrs          ███████████░░░░░░░░░░░░░░   44.11 %
+Other              9 hrs 47 mins   ██████████▓░░░░░░░░░░░░░░   43.09 %
 ```
 
 <!--END_SECTION:waka-->
