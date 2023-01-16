@@ -65,9 +65,9 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 <!--START_SECTION:waka-->
 
 ```text
-From: 07 January 2023 - To: 13 January 2023
+From: 08 January 2023 - To: 14 January 2023
 
-Other              7 hrs 40 mins   ████████████▒░░░░░░░░░░░░   48.91 %
+Other              9 hrs 7 mins    █████████████▓░░░░░░░░░░░   54.26 %
 ```
 
 <!--END_SECTION:waka-->
