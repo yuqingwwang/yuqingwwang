@@ -74,7 +74,7 @@ Other              7 hrs 50 mins   ████████████▓░░
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=yuqingwang98&theme=blueberry&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=yuqingwang98&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
