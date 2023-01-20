@@ -1,7 +1,6 @@
 # 💫 About Me:
 👩‍💻 London-based Python developer. 
 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
-
 🐳 Learning Web Development (HTML/CSS/JavaScript) 
 - I recently completed the Foundations Track of The Odin Project: 
   - Projects I've made as a part of this course include: [My first Landing Page](https://github.com/yuqingwang98/landing-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
@@ -9,7 +8,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
 ⛄️ Teaching Data Science at Le Wagon Bootcamps (London and Remote) <br><br> 
-👯 This year, I will be working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis)
+👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics.
 
 <br>
 
@@ -76,6 +75,7 @@ Other              22 hrs 46 mins  ████████▒░░░░░░
 <!--END_SECTION:waka-->
 
 # 📊 GitHub Stats:
+
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://streak-stats.demolab.com/?user=yuqingwang98&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
