@@ -7,7 +7,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 - Currently I am taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) Course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
-🐳 Teaching Data Science at Le Wagon Bootcamps (London and Remote) <br><br> 
+🌱 Teaching Data Science at Le Wagon Bootcamps (London and Remote) <br><br> 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics.
 
 <br>
