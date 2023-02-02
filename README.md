@@ -44,7 +44,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
       <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> 
-      <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> 
+      <!--- <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/></a> -->
     </div>
    </td>
   </tr></table>  
@@ -79,7 +79,7 @@ Other              36 hrs 6 mins   █████████▒░░░░░
 # 📊 GitHub Stats:
 
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yuqingwang98&theme=blueberry&hide_border=false)<br/>
+![](https://streak-stats.demolab.com/?user=yuqingwang98&theme=blueberry&hide_border=false)&mode=weekly<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
