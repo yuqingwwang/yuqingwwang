@@ -1,10 +1,10 @@
 # 💫 About Me:
-👩‍💻 I'm a London-based Python programmer and I teach Data Science at Le Wagon Bootcamps (London and Remote).
+👩‍💻 I'm a London-based Python programmer and I teach Data Science at Le Wagon Bootcamps.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
 🐳 Learning Web Development with JavaScript
 - I recently completed The Odin Project's Foundations Track: 
-  - Projects I've built include: [Hobby Page](https://github.com/yuqingwang98/landing-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
+  - Projects I've built include: [Landing Page](https://github.com/yuqingwang98/landing-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
 - Currently I am taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
