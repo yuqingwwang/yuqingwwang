@@ -3,9 +3,9 @@
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
 🐳 Learning Web Development with JavaScript
-- I recently completed The Odin Project's Foundations Track: 
+- Working on building a project gallery: 
   - Projects I've built include: [Hobby Page](https://github.com/yuqingwang98/hobby-page), [Rock Paper Scissors Game](https://github.com/yuqingwang98/rock-paper-scissors), [Etch-A-Sketch](https://github.com/yuqingwang98/Etch-A-Sketch), [Calculator](https://github.com/yuqingwang98/Calculator)
-- Currently I am taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
+- I've been taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
