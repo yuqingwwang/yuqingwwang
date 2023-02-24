@@ -64,12 +64,12 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 January 2023 - To: 21 February 2023
+From: 24 January 2023 - To: 22 February 2023
 
-Total Time: 55 hrs 31 mins
+Total Time: 57 hrs 44 mins
 
-JavaScript         33 hrs 50 mins  ██████████▒░░░░░░░░░░░░░░   41.11 %
-Other              26 hrs 48 mins  ████████░░░░░░░░░░░░░░░░░   32.56 %
+JavaScript         34 hrs 26 mins  ██████████▒░░░░░░░░░░░░░░   40.74 %
+Other              26 hrs 48 mins  ████████░░░░░░░░░░░░░░░░░   31.70 %
 ```
 
 <!--END_SECTION:waka-->
