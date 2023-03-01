@@ -2,9 +2,10 @@
 👩‍💻 I'm a London-based Python programmer teaching Data Science at Le Wagon.
 
 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
-🐳 Learning Web Development with JavaScript
-- Here is my [Project Gallery](https://yuqingwang98.github.io/project-gallery/)
-- I've been taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
+🐳 Learning Web Development with JavaScript 
+- [Why?](https://yuqingwang98.github.io/about-me/)
+- Have a look at my [Project Gallery](https://yuqingwang98.github.io/project-gallery/)
+- I am taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
