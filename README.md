@@ -1,11 +1,11 @@
 # 💫 About Me:
-👩‍💻 I'm a London-based Python programmer teaching Data Science at Le Wagon.
+I'm a London-based Python programmer teaching Data Science at Le Wagon.
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br> 
-🐳 Learning Web Development with JavaScript 
-- [Why?](https://yuqingwang98.github.io/about-me/)
+👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
+<!-- <br><br>  -->
+🐳 Learning Web Development with JavaScript => [Why?](https://yuqingwang98.github.io/about-me/)
 - Have a look at my [Project Gallery](https://yuqingwang98.github.io/project-gallery/)
-- I am taking the University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
+- I have completed the first 6 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
@@ -37,7 +37,7 @@ Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) <br><br
       <h4>Web Development</h4>
       <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a>
       <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a>
-      <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a>
+<!--       <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> -->
       <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
       <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
