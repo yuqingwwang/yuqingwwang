@@ -3,7 +3,7 @@ I'm a London-based Python programmer teaching Data Science at Le Wagon.
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
-🐳 Learning Web Development with JavaScript => [Why?](https://yuqingwang98.github.io/about-me/)
+🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwang98.github.io/about-me/)
 - Have a look at my [Project Gallery](https://yuqingwang98.github.io/project-gallery/)
 - I have completed the first 6 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
