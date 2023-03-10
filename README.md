@@ -19,8 +19,8 @@ I'm a London-based Python programmer teaching Data Science at Le Wagon.
       <h4>Languages</h4>
       <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
       <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/></a> 
-      <img src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg' alt='rails' width="40" height="40"/>
-    </div>
+      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg' alt='rails' width="40" height="40"/>
+    </div></a>
   </td>
   
   <td valign="top" width="33%">
