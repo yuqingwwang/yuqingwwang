@@ -1,5 +1,6 @@
 # 💫 About Me:
-I'm a London-based Python programmer teaching Data Science at Le Wagon.
+
+Hello there, I'm a London-based Python programmer teaching Data Science at Le Wagon.
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
