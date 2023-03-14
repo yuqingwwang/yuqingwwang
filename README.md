@@ -65,13 +65,13 @@ Hello there, I'm a London-based Python programmer teaching Data Science at Le Wa
 <!--START_SECTION:waka-->
 
 ```text
-From: 10 February 2023 - To: 11 March 2023
+From: 11 February 2023 - To: 12 March 2023
 
-Total Time: 48 hrs 54 mins
+Total Time: 44 hrs 28 mins
 
-JavaScript   14 hrs 1 min    ██████░░░░░░░░░░░░░░░░░░░   24.38 %
-Python       10 hrs 46 mins  ████▓░░░░░░░░░░░░░░░░░░░░   18.73 %
-Other        8 hrs 35 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.95 %
+JavaScript   11 hrs 9 mins   █████▒░░░░░░░░░░░░░░░░░░░   21.37 %
+Python       9 hrs 12 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.64 %
+Other        7 hrs 45 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.84 %
 ```
 
 <!--END_SECTION:waka-->
