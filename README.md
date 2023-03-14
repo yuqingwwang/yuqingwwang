@@ -4,10 +4,10 @@ Hello there, I'm a London-based Python programmer teaching Data Science at Le Wa
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
-🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwang98.github.io/about-me/)
-- Have a look at my [Project Gallery](https://yuqingwang98.github.io/project-gallery/)
+🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwwang.github.io/about-me/)
+- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/)
 - I have completed the first 6 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
-  - You can find my solutions [here](https://github.com/yuqingwang98/FullStackOpen)
+  - You can find my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
 
@@ -78,19 +78,19 @@ Other        8 hrs 35 mins   ███▓░░░░░░░░░░░░░
 
 # 📊 GitHub Stats:
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://streak-stats.demolab.com/?user=yuqingwang98&mode=weekly&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwang98&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://streak-stats.demolab.com/?user=yuqingwwang&mode=weekly&theme=blueberry&hide_border=false)<br/>
+![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=yuqingwang98&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=yuqingwwang&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
 ---
 
-[![](https://visitcount.itsvg.in/api?id=yuqingwang98&icon=0&color=0)](https://visitcount.itsvg.in)
-<!-- ![](https://komarev.com/ghpvc/?username=yuqingwang98)
+[![](https://visitcount.itsvg.in/api?id=yuqingwwang&icon=0&color=0)](https://visitcount.itsvg.in)
+<!-- ![](https://komarev.com/ghpvc/?username=yuqingwwang)
  -->
 
