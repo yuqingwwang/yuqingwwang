@@ -5,9 +5,9 @@ Hello there, I'm a London-based Python programmer teaching Data Science at Le Wa
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
 🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwwang.github.io/about-me/)
-- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/)
+- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) built in JS
 - I have completed the first 6 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
-  - You can find my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
+  - See my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
 
