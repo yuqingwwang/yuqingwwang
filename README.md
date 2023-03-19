@@ -4,7 +4,7 @@ Hello there, I'm a Python programmer teaching Data Science at Le Wagon London.
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
-🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwwang.github.io/about-me/)
+🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://www.yuqingwang.dev/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) built in JS
 - I have completed the first 6 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - See my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
