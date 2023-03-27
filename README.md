@@ -65,16 +65,16 @@ Hey there, I'm a Python programmer teaching Data Science at Le Wagon London.
 <!--START_SECTION:waka-->
 
 ```text
-From: 23 February 2023 - To: 24 March 2023
+From: 24 February 2023 - To: 25 March 2023
 
-Total Time: 37 hrs 18 mins
+Total Time: 34 hrs 57 mins
 
-Python       6 hrs 40 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.73 %
-HTML         6 hrs 24 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.02 %
-Bash         4 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.00 %
-CSS          4 hrs 46 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.69 %
-Ruby         4 hrs 4 mins    ██▓░░░░░░░░░░░░░░░░░░░░░░   10.81 %
-JavaScript   3 hrs 6 mins    ██░░░░░░░░░░░░░░░░░░░░░░░   08.25 %
+Python       6 hrs 40 mins   ████▓░░░░░░░░░░░░░░░░░░░░   18.92 %
+HTML         5 hrs 25 mins   ████░░░░░░░░░░░░░░░░░░░░░   15.35 %
+Bash         4 hrs 53 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.87 %
+CSS          4 hrs 37 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   13.11 %
+Ruby         4 hrs 4 mins    ███░░░░░░░░░░░░░░░░░░░░░░   11.53 %
+ERB          2 hrs 20 mins   █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
 ```
 
 <!--END_SECTION:waka-->
