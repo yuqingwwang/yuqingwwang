@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there, I'm a Python programmer teaching Data Science at Le Wagon London.
+Hey there, I'm a Python developer teaching Data Science at Le Wagon London since 2022.
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
