@@ -65,7 +65,7 @@ Hey there, I'm a Python developer teaching Data Science at Le Wagon London since
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 February 2023 - To: 27 March 2023
+From: 27 February 2023 - To: 28 March 2023
 
 Total Time: 28 hrs 55 mins
 
