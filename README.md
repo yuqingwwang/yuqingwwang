@@ -6,7 +6,7 @@ Hey there, I'm a Python developer teaching Data Science at Le Wagon London since
 <!-- <br><br>  -->
 🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwwang.github.io/about-me/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the web and data projects I built
-- I have completed the first 6 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course, and will continue with it once I find some time
+- I have completed the first 7 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - See my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
