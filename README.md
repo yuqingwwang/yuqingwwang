@@ -1,11 +1,11 @@
 # 💫 About Me:
 
-Hey there, I'm a Python developer teaching Data Science at Le Wagon London since 2022.
+Hey there, I'm a Python developer teaching Data Science at Le Wagon London.
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
 🐳 Learning Web Development with JavaScript (and Ruby on Rails) => [Why?](https://yuqingwwang.github.io/about-me/)
-- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the web and data projects I built
+- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the projects I built
 - I have completed the first 7 sections of University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course
   - See my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
