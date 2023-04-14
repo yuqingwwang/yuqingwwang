@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there, I'm a Python & JavaScript developer teaching Data Science at Le Wagon London.
+Hey there, I code in Python & JavaScript and teach Data Science at Le Wagon London.
 
 FAC28 
 
