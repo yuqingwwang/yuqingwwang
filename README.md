@@ -67,16 +67,16 @@ FAC28
 <!--START_SECTION:waka-->
 
 ```text
-From: 13 March 2023 - To: 11 April 2023
+From: 14 March 2023 - To: 12 April 2023
 
-Total Time: 20 hrs 13 mins
+Total Time: 21 hrs 31 mins
 
-JavaScript   12 hrs 4 mins   ██████████████▓░░░░░░░░░░   59.17 %
-Bash         2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   12.48 %
-Ruby         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-ERB          1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
-HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.75 %
-Markdown     43 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 %
+JavaScript   13 hrs 22 mins  ███████████████▒░░░░░░░░░   61.63 %
+Bash         2 hrs 32 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.73 %
+Ruby         1 hr 26 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+ERB          1 hr 21 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.23 %
+HTML         45 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.53 %
+Markdown     43 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 %
 ```
 
 <!--END_SECTION:waka-->
