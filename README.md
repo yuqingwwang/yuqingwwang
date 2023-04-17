@@ -8,7 +8,7 @@ FAC28
 <!-- <br><br>  -->
 🐳 Learning Web Development with JavaScript => [Why?](https://yuqingwwang.github.io/about-me/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the projects I built
-- I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course (including GraphQL), see my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
+- I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course (including GraphQL and typescript), see my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
 <!-- 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
  -->
