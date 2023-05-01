@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there, I code in Python & JavaScript and teach Data Science at Le Wagon.
+Hey there, I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
 
 Next stop: FAC28 from May 2023; hopefully learning some Django this year
 
