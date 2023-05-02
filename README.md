@@ -67,16 +67,16 @@ Next stop: FAC28 from May 2023; hopefully learning some Django this year
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 March 2023 - To: 29 April 2023
+From: 31 March 2023 - To: 30 April 2023
 
-Total Time: 19 hrs 24 mins
+Total Time: 17 hrs 27 mins
 
-JavaScript   13 hrs 18 mins  █████████████████░░░░░░░░   68.42 %
-Python       2 hrs 54 mins   ███▓░░░░░░░░░░░░░░░░░░░░░   14.94 %
-TypeScript   2 hrs 13 mins   ███░░░░░░░░░░░░░░░░░░░░░░   11.48 %
-JSON         25 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.21 %
-Bash         22 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.94 %
-TSConfig     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 %
+JavaScript   11 hrs 23 mins  ████████████████▒░░░░░░░░   65.12 %
+Python       2 hrs 54 mins   ████░░░░░░░░░░░░░░░░░░░░░   16.61 %
+TypeScript   2 hrs 13 mins   ███▒░░░░░░░░░░░░░░░░░░░░░   12.76 %
+JSON         23 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.25 %
+Bash         22 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+TSConfig     4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.42 %
 ```
 
 <!--END_SECTION:waka-->
