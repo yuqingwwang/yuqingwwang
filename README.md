@@ -67,7 +67,7 @@ Next stop: FAC28 from May 2023; hopefully learning some Django this year
 <!--START_SECTION:waka-->
 
 ```text
-From: 02 April 2023 - To: 02 May 2023
+From: 03 April 2023 - To: 03 May 2023
 
 Total Time: 17 hrs 2 mins
 
