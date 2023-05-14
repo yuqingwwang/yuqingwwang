@@ -67,15 +67,15 @@ FAC28 from May 2023
 <!--START_SECTION:waka-->
 
 ```text
-From: 11 April 2023 - To: 11 May 2023
+From: 12 April 2023 - To: 12 May 2023
 
-Total Time: 9 hrs 41 mins
+Total Time: 8 hrs 45 mins
 
-Python       4 hrs 54 mins   ████████████▓░░░░░░░░░░░░   50.59 %
-TypeScript   2 hrs 13 mins   █████▓░░░░░░░░░░░░░░░░░░░   22.98 %
-JavaScript   1 hr 18 mins    ███▒░░░░░░░░░░░░░░░░░░░░░   13.38 %
-Bash         35 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.05 %
-JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.67 %
+Python       5 hrs 2 mins    ██████████████▒░░░░░░░░░░   57.46 %
+TypeScript   2 hrs 13 mins   ██████▒░░░░░░░░░░░░░░░░░░   25.44 %
+Bash         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.69 %
+JSON         21 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.16 %
+HTML         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
 ```
 
 <!--END_SECTION:waka-->
