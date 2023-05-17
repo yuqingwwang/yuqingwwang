@@ -2,7 +2,7 @@
 
 Hey there, I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
 
-FAC28 from May 2023
+A proud member of Founders and Coders Cohort 28
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
