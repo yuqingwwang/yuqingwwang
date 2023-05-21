@@ -67,15 +67,15 @@ A proud member of Founders and Coders Cohort 28
 <!--START_SECTION:waka-->
 
 ```text
-From: 18 April 2023 - To: 18 May 2023
+From: 19 April 2023 - To: 19 May 2023
 
-Total Time: 8 hrs 27 mins
+Total Time: 6 hrs 22 mins
 
-Python       5 hrs 30 mins   ████████████████▒░░░░░░░░   65.02 %
-TypeScript   1 hr 13 mins    ███▓░░░░░░░░░░░░░░░░░░░░░   14.51 %
-Bash         45 mins         ██▒░░░░░░░░░░░░░░░░░░░░░░   08.99 %
-JSON         24 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   04.74 %
-HTML         15 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.13 %
+Python       3 hrs 25 mins   █████████████▒░░░░░░░░░░░   53.50 %
+TypeScript   1 hr 7 mins     ████▒░░░░░░░░░░░░░░░░░░░░   17.48 %
+Bash         43 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.39 %
+HTML         25 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.55 %
+JSON         24 mins         █▓░░░░░░░░░░░░░░░░░░░░░░░   06.29 %
 ```
 
 <!--END_SECTION:waka-->
