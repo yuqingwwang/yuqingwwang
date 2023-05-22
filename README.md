@@ -63,6 +63,7 @@ A proud member of Founders and Coders Cohort 28
 
 <br>
 
+## Wakatime (last 6 months)
 <!--START_SECTION:waka-->
 
 ```text
