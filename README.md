@@ -79,13 +79,20 @@ Python             37 hrs 40 mins  ████░░░░░░░░░░░
 <!--END_SECTION:waka-->
 
 <div align='center'>
+  <h2>📊 GitHub Stats:</h2>
 
- <h2> 📊 GitHub Stats: </h2>
-
-<!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
-![](https://streak-stats.demolab.com/?user=yuqingwwang&mode=weekly&theme=blueberry&hide_border=false)<br/>
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+  <table style="width: 100%;">
+    <tr>
+      <td>
+        <img src="https://streak-stats.demolab.com/?user=yuqingwwang&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
+      </td>
+      <td>
+        <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
+      </td>
+    </tr>
+  </table>
 </div>
+
 
 <div align='center'>
 <h2> 🏆 GitHub Trophies </h2>
