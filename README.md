@@ -1,6 +1,6 @@
 # 💫 About Me:
 
-Hey there, I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
+Hey there, welcome to my page. I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
 
 A proud member of Founders and Coders Cohort 28
 
@@ -12,7 +12,6 @@ A proud member of Founders and Coders Cohort 28
 
 <!-- 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
  -->
-<br>
 
 # Languages and Tools:
 <table><tr>
