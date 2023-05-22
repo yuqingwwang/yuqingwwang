@@ -78,21 +78,26 @@ Python             37 hrs 40 mins  ████░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-# 📊 GitHub Stats:
+<div align='center'>
 
-![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>
+ <h2> 📊 GitHub Stats: </h2>
+
+<!-- ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true)<br/>-->
 ![](https://streak-stats.demolab.com/?user=yuqingwwang&mode=weekly&theme=blueberry&hide_border=false)<br/>
 ![](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
+<div align='center'>
+<h2> 🏆 GitHub Trophies </h2>
+
 ![](https://github-profile-trophy.vercel.app/?username=yuqingwwang&theme=onedark&no-frame=false&no-bg=false&margin-w=4)
 
 <!-- ### 😂 Random Dev Meme
 <img src="https://random-memer.herokuapp.com/" width="512px"/> -->
 
----
 
 <!--[![](https://visitcount.itsvg.in/api?id=yuqingwwang&icon=0&color=0)](https://visitcount.itsvg.in) -->
 <!-- ![](https://komarev.com/ghpvc/?username=yuqingwwang)
  -->
 
+</div>
