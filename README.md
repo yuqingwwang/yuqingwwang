@@ -67,13 +67,13 @@ A proud member of Founders and Coders Cohort 28
 <!--START_SECTION:waka-->
 
 ```text
-From: 30 November 2022 - To: 30 May 2023
+From: 01 December 2022 - To: 31 May 2023
 
-Total Time: 185 hrs 3 mins
+Total Time: 185 hrs 45 mins
 
-JavaScript         88 hrs 20 mins  █████████░░░░░░░░░░░░░░░░   36.47 %
-Other              57 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.61 %
-Python             39 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.33 %
+JavaScript         88 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   36.38 %
+Other              57 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.54 %
+Python             39 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
 ```
 
 <!--END_SECTION:waka-->
