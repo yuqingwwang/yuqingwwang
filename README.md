@@ -66,14 +66,14 @@ A proud member of Founders and Coders Cohort 28
 ## Wakatime (last 6 months)
 <!--START_SECTION:waka-->
 
-```text
-From: 01 December 2022 - To: 31 May 2023
+```txt
+From: 02 December 2022 - To: 01 June 2023
 
-Total Time: 185 hrs 45 mins
+Total Time: 186 hrs 8 mins
 
-JavaScript         88 hrs 23 mins  █████████░░░░░░░░░░░░░░░░   36.38 %
-Other              57 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.54 %
-Python             39 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.28 %
+JavaScript         88 hrs 45 mins  █████████░░░░░░░░░░░░░░░░   36.48 %
+Other              57 hrs 11 mins  ██████░░░░░░░░░░░░░░░░░░░   23.50 %
+Python             39 hrs 33 mins  ████░░░░░░░░░░░░░░░░░░░░░   16.25 %
 ```
 
 <!--END_SECTION:waka-->
