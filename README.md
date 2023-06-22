@@ -2,7 +2,7 @@
 
 Hey there, welcome to my page. I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
 
-A proud member of Founders and Coders Cohort 28
+A proud member of [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort 28
 
 👩‍💻 Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
 <!-- <br><br>  -->
