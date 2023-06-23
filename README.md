@@ -67,13 +67,13 @@ A proud member of [Founders and Coders](https://www.foundersandcoders.com/learn/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 21 December 2022 - To: 20 June 2023
+From: 22 December 2022 - To: 21 June 2023
 
-Total Time: 208 hrs 43 mins
+Total Time: 209 hrs 45 mins
 
-JavaScript         101 hrs 22 mins █████████▓░░░░░░░░░░░░░░░   38.12 %
-Other              57 hrs 11 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.51 %
-Python             41 hrs 22 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.56 %
+JavaScript         102 hrs 2 mins  █████████▓░░░░░░░░░░░░░░░   38.23 %
+Other              57 hrs 11 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.42 %
+Python             41 hrs 22 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.50 %
 ```
 
 <!--END_SECTION:waka-->
