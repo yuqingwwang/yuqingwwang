@@ -70,7 +70,7 @@ A proud member of [Founders and Coders](https://www.foundersandcoders.com/learn/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 23 December 2022 - To: 22 June 2023
+From: 24 December 2022 - To: 23 June 2023
 
 Total Time: 210 hrs 49 mins
 
