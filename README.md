@@ -70,18 +70,18 @@ A proud member of [Founders and Coders](https://www.foundersandcoders.com/learn/
 <!--START_SECTION:waka-->
 
 ```txt
-From: 29 December 2022 - To: 28 June 2023
+From: 30 December 2022 - To: 29 June 2023
 
-Total Time: 208 hrs 33 mins
+Total Time: 203 hrs 23 mins
 
-JavaScript         101 hrs 38 mins █████████▓░░░░░░░░░░░░░░░   38.25 %
-Other              57 hrs 11 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.52 %
-Python             41 hrs 22 mins  ████░░░░░░░░░░░░░░░░░░░░░   15.57 %
-HTML               18 hrs 44 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.05 %
-CSS                12 hrs 41 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.78 %
-Bash               7 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.76 %
-Ruby               4 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.53 %
-Markdown           3 hrs 21 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.27 %
+JavaScript         99 hrs 39 mins  █████████▓░░░░░░░░░░░░░░░   38.25 %
+Other              57 hrs 10 mins  █████▒░░░░░░░░░░░░░░░░░░░   21.94 %
+Python             39 hrs 28 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.15 %
+HTML               18 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 %
+CSS                12 hrs 5 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.64 %
+Bash               7 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.82 %
+Ruby               4 hrs 4 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.56 %
+Markdown           3 hrs 7 mins    ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
 ```
 
 <!--END_SECTION:waka-->
