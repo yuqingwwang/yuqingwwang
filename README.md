@@ -7,7 +7,7 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 👩‍💻 Currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Foundation course, Cohort 28
 
 <!-- <br><br>  -->
-🐳 Learning Web Development with JavaScript => [Why?](https://www.yuqingwang.dev/)
+🐳 Building Web Development projects with JavaScript => [Why?](https://www.yuqingwang.dev/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the projects I built
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course (including GraphQL and typescript), see my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
