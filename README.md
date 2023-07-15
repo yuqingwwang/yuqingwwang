@@ -11,7 +11,10 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the projects I built
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course (including GraphQL and typescript), see my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
-<a href='https://www.credly.com/badges/65b1ba25-7c08-444d-8581-22a45300ac8a/linked_in_profile'><img src="https://github.com/yuqingwwang/yuqingwwang/assets/44486576/c9163976-d149-4ee7-8cae-b8adbcfced80" width="150"/></a>
+<a href="https://www.credly.com/badges/65b1ba25-7c08-444d-8581-22a45300ac8a/linked_in_profile">
+  <img src="https://github.com/yuqingwwang/yuqingwwang/blob/master/assets/44486576/c9163976-d149-4ee7-8cae-b8adbcfced80.jpg" width="150" alt="Linkedin Badge">
+</a>
+
 
 # Languages and Tools:
 <table><tr>
