@@ -11,8 +11,7 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the projects I built
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course (including GraphQL and typescript), see my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
-<!-- 👯 I am working on [kpop_analysis](https://github.com/JiwonGigiShin/kpop_analysis), an NLP project on KPOP lyrics through a Feminist lens.
- -->
+<a href='https://www.credly.com/badges/65b1ba25-7c08-444d-8581-22a45300ac8a/linked_in_profile'><img src="https://github.com/yuqingwwang/yuqingwwang/assets/44486576/c9163976-d149-4ee7-8cae-b8adbcfced80" width="150"/></a>
 
 # Languages and Tools:
 <table><tr>
@@ -63,7 +62,8 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
       <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> </a>
       <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a>
     </div>
-  </td></tr>
+  </td>
+  </tr>
 </table>
 
 <br>
