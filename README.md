@@ -95,11 +95,11 @@ ERB                3 hrs 33 mins   ▓░░░░░░░░░░░░░░
   <h2>📊 GitHub Stats:</h2>
 
  <table style="width: 100%;">
-    <tr>
+<!--     <tr>
         <td valign="top" align="center">
             <img src="https://streak-stats.demolab.com/?user=yuqingwwang&mode=weekly&theme=blueberry&hide_border=false" style="max-width: 100%;">
         </td>
-    </tr>
+    </tr> -->
     <tr>
         <td valign="bottom" align="center">
             <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yuqingwwang&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true&layout=compact" style="max-width: 100%;">
