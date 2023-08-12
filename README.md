@@ -75,18 +75,18 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 <!--START_SECTION:waka-->
 
 ```txt
-From: 09 February 2023 - To: 09 August 2023
+From: 10 February 2023 - To: 10 August 2023
 
-Total Time: 154 hrs 53 mins
+Total Time: 153 hrs 54 mins
 
-JavaScript         61 hrs 25 mins  █████████▒░░░░░░░░░░░░░░░   37.41 %
-Python             22 hrs 55 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.96 %
-HTML               21 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.79 %
-CSS                17 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.56 %
-Other              9 hrs 18 mins   █▒░░░░░░░░░░░░░░░░░░░░░░░   05.67 %
-Bash               6 hrs 59 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.26 %
-Ruby               6 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.78 %
-ERB                3 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.16 %
+JavaScript         61 hrs 25 mins  █████████▒░░░░░░░░░░░░░░░   37.67 %
+Python             22 hrs 19 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.69 %
+HTML               21 hrs          ███▒░░░░░░░░░░░░░░░░░░░░░   12.88 %
+CSS                17 hrs 20 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.64 %
+Other              9 hrs 8 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
+Bash               6 hrs 44 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   04.14 %
+Ruby               6 hrs 12 mins   █░░░░░░░░░░░░░░░░░░░░░░░░   03.80 %
+ERB                3 hrs 33 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.18 %
 ```
 
 <!--END_SECTION:waka-->
