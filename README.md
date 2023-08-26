@@ -4,7 +4,7 @@
 
 Hey there, welcome to my page. I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
 
-👩‍💻 Currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Development skills bootcamp, Cohort 28
+👩‍💻 Currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Development Bootcamp, Cohort 28
 
 <!-- <br><br>  -->
 🐳 Building Web Development projects with JavaScript => [Why?](https://www.yuqingwang.dev/)
