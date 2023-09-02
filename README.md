@@ -48,7 +48,7 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
       <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> 
       <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> 
      <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-     <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg' alt='rails' width="40" height="40"/></a>
+<!--      <a href="https://rubyonrails.org/" target="_blank" rel="noreferrer"><img src='https://github.com/devicons/devicon/blob/master/icons/rails/rails-original-wordmark.svg' alt='rails' width="40" height="40"/></a> -->
       <!--- <a href="https://nestjs.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nestjs/nestjs-plain.svg" alt="nestjs" width="40" height="40"/> </a> -->
     </div>
    </td>
