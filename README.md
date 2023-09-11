@@ -75,7 +75,7 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 <!--START_SECTION:waka-->
 
 ```txt
-From: 11 March 2023 - To: 08 September 2023
+From: 12 March 2023 - To: 09 September 2023
 
 Total Time: 120 hrs 46 mins
 
