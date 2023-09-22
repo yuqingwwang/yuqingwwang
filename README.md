@@ -75,18 +75,18 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 <!--START_SECTION:waka-->
 
 ```txt
-From: 22 March 2023 - To: 19 September 2023
+From: 23 March 2023 - To: 20 September 2023
 
-Total Time: 120 hrs 21 mins
+Total Time: 122 hrs 54 mins
 
-JavaScript         52 hrs 53 mins  ███████████░░░░░░░░░░░░░░   43.81 %
-Python             21 hrs 43 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.99 %
-HTML               13 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.07 %
-CSS                12 hrs 5 mins   ██▓░░░░░░░░░░░░░░░░░░░░░░   10.01 %
-Bash               3 hrs 21 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.78 %
-Ruby               2 hrs 47 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.31 %
-Markdown           2 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.08 %
-YAML               2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.05 %
+JavaScript         53 hrs 3 mins   ██████████▓░░░░░░░░░░░░░░   43.04 %
+Python             21 hrs 43 mins  ████▒░░░░░░░░░░░░░░░░░░░░   17.62 %
+CSS                13 hrs 50 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   11.22 %
+HTML               13 hrs 22 mins  ██▓░░░░░░░░░░░░░░░░░░░░░░   10.84 %
+Bash               3 hrs 20 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.71 %
+Markdown           2 hrs 30 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.04 %
+YAML               2 hrs 28 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.01 %
+Ruby               2 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.93 %
 ```
 
 <!--END_SECTION:waka-->
