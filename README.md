@@ -71,7 +71,7 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 
 <br>
 
-## Wakatime (last 6 months)
+## Wakatime
 <!--START_SECTION:waka-->
 
 ```txt
