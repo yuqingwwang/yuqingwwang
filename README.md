@@ -8,7 +8,7 @@ Hey there, welcome to my page. I code in Python & JavaScript and teach Data Scie
 
 <!-- <br><br>  -->
 🐳 Building Web Development projects with JavaScript => [Why?](https://www.yuqingwang.dev/)
-- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) showcasing the projects I built
+- Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course (including GraphQL and typescript), see my solutions [here](https://github.com/yuqingwwang/FullStackOpen)
 
 <a href="https://www.credly.com/badges/65b1ba25-7c08-444d-8581-22a45300ac8a/linked_in_profile">
