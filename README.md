@@ -1,10 +1,10 @@
-# 💫 About Me:
 
-### Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/) 
+<img src="/header.png">
 
-Hey there, welcome to my page. I code in Python & JavaScript and teach Data Science (and Data Viz) at Le Wagon.
+Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/)
 
-👩‍💻 Currently training with [Founders and Coders](https://www.foundersandcoders.com/learn/) Software Development Bootcamp, Cohort 28
+
+👩‍💻 Currently doing a Level 4 Software Development Apprenticeship @ [Founders and Coders](https://www.foundersandcoders.com/learn/)
 
 <!-- <br><br>  -->
 🐳 Building websites with JavaScript => [Why?](https://www.yuqingwang.dev/)
