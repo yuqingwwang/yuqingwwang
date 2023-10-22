@@ -1,7 +1,7 @@
 
 <img src="/header.png">
 
-Connect with me on [Linkedin](https://www.linkedin.com/in/yuqingwang42/)
+<a href="https://www.linkedin.com/in/yuqingwang42/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
 
 👩‍💻 Currently doing a Level 4 Software Development Apprenticeship @ [Founders and Coders](https://www.foundersandcoders.com/learn/)
