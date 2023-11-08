@@ -75,18 +75,18 @@
 <!--START_SECTION:waka-->
 
 ```txt
-From: 26 December 2022 - To: 05 November 2023
+From: 26 December 2022 - To: 06 November 2023
 
-Total Time: 334 hrs 24 mins
+Total Time: 336 hrs 36 mins
 
-JavaScript         172 hrs 1 min   ███████████░░░░░░░░░░░░░░   43.87 %
-Other              57 hrs 42 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.72 %
-Python             53 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.68 %
-CSS                26 hrs 10 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.67 %
-HTML               23 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.03 %
-Bash               9 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
-TypeScript         7 hrs 30 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.91 %
-Markdown           6 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.71 %
+JavaScript         172 hrs 1 min   ███████████░░░░░░░░░░░░░░   43.62 %
+Other              57 hrs 43 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.64 %
+Python             53 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.60 %
+CSS                26 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.64 %
+HTML               23 hrs 38 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.00 %
+Bash               10 hrs          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.54 %
+TypeScript         9 hrs 35 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.43 %
+Markdown           6 hrs 42 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
 ```
 
 <!--END_SECTION:waka-->
