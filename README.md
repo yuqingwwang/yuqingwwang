@@ -71,6 +71,8 @@
 
 <br>
 
+<figure><embed src="https://wakatime.com/share/@beebo/1442e42f-db9d-40ea-836a-62d6f37f724d.svg"></embed></figure>
+
 ## Wakatime
 <!--START_SECTION:waka-->
 
