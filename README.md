@@ -69,9 +69,8 @@
   </tr>
 </table>
 
-<br>
 
-<figure><embed src="https://wakatime.com/share/@beebo/1442e42f-db9d-40ea-836a-62d6f37f724d.svg"></embed></figure>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@beebo/4a6bf964-bcd8-4ce0-875f-b13ab818012f.png" /></a>
 
 ## Wakatime
 <!--START_SECTION:waka-->
