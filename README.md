@@ -70,29 +70,11 @@
 </table>
 
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@beebo/4a6bf964-bcd8-4ce0-875f-b13ab818012f.png" /></a>
-
 ## Wakatime
-<!--START_SECTION:waka-->
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@beebo/5d8e2ddc-4a19-4540-9f84-e622cb6cea53.png" width=600/></a>
 
-```txt
-From: 26 December 2022 - To: 15 November 2023
 
-Total Time: 363 hrs 43 mins
-
-JavaScript         172 hrs 51 mins ██████████▒░░░░░░░░░░░░░░   41.00 %
-Other              57 hrs 53 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   13.73 %
-Python             53 hrs 37 mins  ███▒░░░░░░░░░░░░░░░░░░░░░   12.72 %
-TypeScript         35 hrs 18 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.38 %
-CSS                26 hrs 12 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.22 %
-HTML               23 hrs 38 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.61 %
-Bash               10 hrs 7 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Markdown           6 hrs 46 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.61 %
-```
-
-<!--END_SECTION:waka-->
-
-<!--<div align='center'>
+<div align='center'>
 <h2>📊 GitHub Stats:</h2>
 
  <table style="width: 100%;">
@@ -107,7 +89,7 @@ Markdown           6 hrs 46 mins   ▒░░░░░░░░░░░░░░
         </td>
     </tr>
   </table> 
-</div>-->
+</div> 
 
 
 <div align='center'>
