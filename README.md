@@ -4,10 +4,10 @@
 <a href="https://www.linkedin.com/in/yuqingwang42/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
 
-👩‍💻 Currently doing a Level 4 Software Development Apprenticeship @ [Founders and Coders](https://www.foundersandcoders.com/learn/)
+👩‍💻 [Founders and Coders](https://www.foundersandcoders.com/learn/) Graduate
 
 <!-- <br><br>  -->
-🐳 Building websites with JavaScript => [Why?](https://www.yuqingwang.dev/)
+🐳 Building websites with JavaScript and TypeScript => [Why?](https://www.yuqingwang.dev/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course, see my solutions and certificates [here](https://github.com/yuqingwwang/FullStackOpen)
 
@@ -71,7 +71,7 @@
 
 
 ## Wakatime
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@beebo/5d8e2ddc-4a19-4540-9f84-e622cb6cea53.png" width=600/></a>
+<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@beebo/5d8e2ddc-4a19-4540-9f84-e622cb6cea53.png" width=600/></a> -->
 
 
 <div align='center'>
