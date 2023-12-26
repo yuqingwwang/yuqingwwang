@@ -7,7 +7,8 @@
 👩‍💻 [Founders and Coders](https://www.foundersandcoders.com/learn/) Cohort 28 Graduate
 
 <!-- <br><br>  -->
-🐳 Building websites with JavaScript and TypeScript => [Why?](https://www.yuqingwang.dev/)
+
+Looking for Junoir Fullstack Developer roles => [Why?](https://www.yuqingwang.dev/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course, see my solutions and certificates [here](https://github.com/yuqingwwang/FullStackOpen)
 
@@ -71,7 +72,24 @@
 
 
 ## Wakatime
-<!-- <a href="https://wakatime.com"><img src="https://wakatime.com/share/@beebo/5d8e2ddc-4a19-4540-9f84-e622cb6cea53.png" width=600/></a> -->
+<!--START_SECTION:waka-->
+
+```txt
+From: 26 December 2022 - To: 21 October 2023
+
+Total Time: 318 hrs 4 mins
+
+JavaScript         164 hrs 4 mins  ███████████░░░░░░░░░░░░░░   43.68 %
+Other              57 hrs 32 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   15.32 %
+Python             53 hrs 37 mins  ███▓░░░░░░░░░░░░░░░░░░░░░   14.28 %
+CSS                24 hrs 52 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.62 %
+HTML               23 hrs 36 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.28 %
+Bash               9 hrs 57 mins   ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.65 %
+Markdown           6 hrs 22 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.70 %
+Ruby               6 hrs 12 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.65 %
+```
+
+<!--END_SECTION:waka-->
 
 
 <div align='center'>
