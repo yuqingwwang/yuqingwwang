@@ -75,7 +75,7 @@ Looking for Junoir Fullstack Developer roles => [Why?](https://www.yuqingwang.de
 </table>
 
 
-## Wakatime
+<!-- ## Wakatime
 <!--START_SECTION:waka-->
 
 ```txt
@@ -95,6 +95,7 @@ Markdown              6 hrs 52 mins   ▒░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
+-->
 
 <div align='center'>
 <h2>📊 GitHub Stats:</h2>
