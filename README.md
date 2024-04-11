@@ -1,5 +1,5 @@
 
-<img src="/header.png">
+<!-- <img src="/header.png"> -->
 
 <a href="https://www.linkedin.com/in/yuqingwang42/"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&random=false&width=435&lines=Connect+with+me+on+LinkedIn" alt="Typing SVG" /></a>
 
@@ -73,29 +73,6 @@ Looking for Junoir Fullstack Developer roles => [Why?](https://www.yuqingwang.de
   </td>
   </tr>
 </table>
-
-
-<!-- ## Wakatime
-<!--START_SECTION:waka-->
-
-```txt
-From: 26 December 2022 - To: 10 April 2024
-
-Total Time: 420 hrs 11 mins
-
-JavaScript            173 hrs 46 mins █████████░░░░░░░░░░░░░░░░   36.28 %
-TypeScript            82 hrs 3 mins   ████▒░░░░░░░░░░░░░░░░░░░░   17.13 %
-Other                 58 hrs 44 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.27 %
-Python                58 hrs 23 mins  ███░░░░░░░░░░░░░░░░░░░░░░   12.19 %
-CSS                   26 hrs 12 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   05.47 %
-HTML                  23 hrs 39 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.94 %
-Bash                  11 hrs 13 mins  ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.34 %
-Markdown              6 hrs 52 mins   ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.44 %
-```
-
-<!--END_SECTION:waka-->
-
--->
 
 <div align='center'>
 <h2>📊 GitHub Stats:</h2>
