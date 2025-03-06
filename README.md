@@ -8,7 +8,7 @@
 
 <!-- <br><br>  -->
 
-Looking for Fullstack Developer roles => [Why?](https://www.yuqingwang.xyz/)
+Looking for Fullstack Developer roles => [Why?](yuqingwang.xyz/)
 - Have a look at my [Project Gallery](https://yuqingwwang.github.io/project-gallery/) 
 - I have completed University of Helsinki's [Full Stack Open](https://fullstackopen.com/en/) course, see my solutions and certificates [here](https://github.com/yuqingwwang/FullStackOpen)
 
